@@ -1,9 +1,7 @@
-# awesome-programming-books
-
-📚 A curated list of awesome programming books
+# 📚 A curated list of awesome programming books
 
 <h3>Algorithms and data structures</h3>
-- [Introduction to Algorithms](https://en.wikipedia.org/wiki/Introduction_to_Algorithms)
+![Introduction to Algorithms](https://en.wikipedia.org/wiki/Introduction_to_Algorithms)
 <h3>Artificial intelligence</h3>
 <h3>Software Architecture</h3>
 <h3>Human–computer interaction</h3>
