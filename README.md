@@ -3,18 +3,21 @@
 <br>
 
 # My Table of content
-- [Section 1](#id-section1)
-- [Section 2](#id-section2)
-- [Section 3](#id-section3)
-- [Section 4](#id-section4)
-- [Section 5](#id-section5)
-- [Section 6](#id-section6)
-- [Section 7](#id-section7)
-- [Section 8](#id-section8)
-- [Section 9](#id-section9)
-- [Section 10](#id-section10)
-- [Section 11](#id-section11)
-- [Section 12](#id-section12)
+- [Algorithms and data structures](#id-section1)
+- [Artificial intelligence](#id-section2)
+- [Software Architecture](#id-section3)
+- [Human–computer interaction](#id-section4)
+- [Mathematical optimization](#id-section5)
+- [Computer Security](#id-section6)
+- [Game Development](#id-section7)
+- [Operating Systems](#id-section8)
+- [Distributed Systems](#id-section9)
+- [Database Systems](#id-section10)
+- [Interpreters and Compilers](#id-section11)
+- [Concurrency](#id-section12)
+- [High-Performance Computing](#id-section13)
+
+
 
 
 
