@@ -139,3 +139,13 @@
 - [High Performance Computing: Programming and Applications](https://books.google.com.au/books/about/High_Performance_Computing.html?id=orRQcftFRtkC&printsec=frontcover&source=kp_read_button&redir_esc=y)
 - [High Performance Computing: Modern Systems and Practices](https://books.google.com.au/books/about/High_Performance_Computing.html?id=qOHIBAAAQBAJ&printsec=frontcover&source=kp_read_button&redir_esc=y)
 - [High Performance Computing in Remote Sensing](https://books.google.com.au/books/about/High_Performance_Computing_in_Remote_Sen.html?id=0L9DNQvMFK0C&printsec=frontcover&source=kp_read_button&redir_esc=y#v=onepage&q&f=false)
+
+# Contributing
+
+Contributions welcome! Read the [contribution guidelines](CONTRIBUTING.md) first.
+
+# License
+
+[![CC0](http://i.creativecommons.org/p/zero/1.0/88x31.png)](http://creativecommons.org/publicdomain/zero/1.0/)
+
+To the extent possible under law, [chencheng](https://github.com/sorrycc) has waived all copyright and related or neighboring rights to this work.
