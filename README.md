@@ -2,7 +2,7 @@
 <br>
 <br>
 
-# Programming Topics - Table of contents
+# Table of contents (topics)
 
 - [Algorithms and data structures](#id-section1)
 - [Artificial intelligence](#id-section2)
