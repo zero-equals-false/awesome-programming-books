@@ -19,7 +19,7 @@
 <br>
 <br>
 <br>
-
+<hr>
 
 <div id='id-section1'/>
 <h2>Algorithms and data structures</h2>
@@ -79,62 +79,62 @@
 <div id='id-section7'/>
 <h2>Game Development</h2>
 
-- 
-- 
-- 
-- 
-- 
+- [Game Engine Architecture](https://books.google.com.au/books/about/Game_Engine_Architecture_Third_Edition.html?id=EwlpDwAAQBAJ&printsec=frontcover&source=kp_read_button&redir_esc=y)
+- [Game Programming Gems 2](https://books.google.com.au/books/about/Game_Programming_Gems_2.html?id=1-NfBElV97IC&printsec=frontcover&source=kp_read_button&redir_esc=y)
+- [Artificial Intelligence for Games](https://books.google.com.au/books/about/Artificial_Intelligence_for_Games.html?id=1OJ8EhvuPXAC&printsec=frontcover&source=kp_read_button&redir_esc=y)
+- [Agile Game Development with Scrum](https://books.google.com.au/books/about/Agile_Game_Development_with_Scrum.html?id=OYWWRFFc29gC&printsec=frontcover&source=kp_read_button&redir_esc=y#v=onepage&q&f=false)
+- [Foundations of Game Engine Development](https://www.goodreads.com/book/show/32606224-foundations-of-game-engine-development-volume-1)
 
 <div id='id-section8'/>
 <h2>Operating Systems</h2>
 
-- 
-- 
-- 
-- 
-- 
+- [Operating System Concepts](https://www.wiley.com/en-ge/Operating+System+Concepts%2C+9th+Edition+International+Student+Version-p-9781118093757)
+- [UNIX Systems for Modern Architectures](https://www.goodreads.com/book/show/79570.Unix_Systems_for_Modern_Architectures)
+- [Understanding the Linux Kernel](https://books.google.com.au/books/about/Understanding_the_Linux_Kernel.html?id=9yIEji1UheIC&printsec=frontcover&source=kp_read_button&redir_esc=y#v=onepage&q&f=false)
+- [Operating Systems: Internals and Design Principles](https://www.pearson.com/us/higher-education/product/Stallings-Operating-Systems-Internals-and-Design-Principles-8th-Edition/9780133805918.html)
+- [Operating Systems: Three Easy Pieces](https://www.goodreads.com/book/show/17374825-operating-systems)
 
 <div id='id-section9'/>
 <h2>Distributed Systems</h2>
 
-- 
-- 
-- 
-- 
-- 
+- [Designing Distributed Systems: Patterns and Paradigms for Scalable, Reliable Services](https://books.google.com.au/books/about/Designing_Distributed_Systems.html?id=6BJNDwAAQBAJ&printsec=frontcover&source=kp_read_button&redir_esc=y#v=onepage&q&f=false)
+- [Building Microservices](https://books.google.com/books/about/Building_Microservices.html?id=RDl4BgAAQBAJ&printsec=frontcover&source=kp_read_button)
+- [Distributed System Design](https://books.google.com/books/about/Distributed_System_Design.html?id=fEq2_vq-RGwC&printsec=frontcover&source=kp_read_button)
+- [Distributed systems: Principles and Paradigms](https://www.goodreads.com/book/show/405614.Distributed_Systems)
+- [Programming Distributed Computing Systems: A Foundational Approach](https://books.google.com/books/about/Programming_Distributed_Computing_System.html?id=AOXxCwAAQBAJ&printsec=frontcover&source=kp_read_button)
 
 <div id='id-section10'/>
 <h2>Database Systems</h2>
 
-- 
-- 
-- 
-- 
-- 
+- [Database System Concepts](https://www.goodreads.com/book/show/161332.Database_System_Concepts)
+- [Fundamentals of Database Systems](https://books.google.com.au/books/about/Fundamentals_of_Database_Systems.html?id=ZdhAQgAACAAJ&source=kp_book_description&redir_esc=y)
+- Database Management Systems
+- [Database Design and Relational Theory](https://books.google.com.au/books/about/Database_Design_and_Relational_Theory.html?id=8jAGhpMSjAcC&printsec=frontcover&source=kp_read_button&redir_esc=y)
+- [Database Systems: Design, Implementation, and Management](https://books.google.com/books/about/Database_Systems_Design_Implementation_M.html?id=elVZCwAAQBAJ&printsec=frontcover&source=kp_read_button)
 
 <div id='id-section11'/>
 <h2>Interpreters and Compilers</h2>
 
-- 
-- 
-- 
-- 
-- 
+- [Writing compilers and interpreters](https://www.goodreads.com/book/show/1380737.Writing_Compilers_and_Interpreters)
+- [Compiler technology](https://books.google.com.au/books/about/Compiler_Technology.html?id=T5jTBwAAQBAJ&printsec=frontcover&source=kp_read_button&redir_esc=y)
+- [Object-oriented compiler construction](https://www.goodreads.com/book/show/1861043.Object_Oriented_Compiler_Construction)
+- [Programming Language Processors: Compilers and Interpreters](https://www.goodreads.com/book/show/722444.Programming_Language_Processors_in_Java)
+- [Compilers: Principles, Techniques, and Tools](https://www.goodreads.com/book/show/703102.Compilers)
 
 <div id='id-section12'/>
 <h2>Concurrency</h2>
 
-- 
-- 
-- 
-- 
-- 
+- [Concurrent programming in Java](https://books.google.com/books/about/Concurrent_Programming_in_Java.html?id=-x1S4neCSOYC&printsec=frontcover&source=kp_read_button)
+- [Principles of Concurrent and Distributed Programming](https://www.bookdepository.com/Principles-Concurrent-Distributed-Programming-M-Ben-Ari/9780321312839)
+- [The Art of Concurrency: A Thread Monkey's Guide to Writing Parallel Applications](https://books.google.com.au/books/about/The_Art_of_Concurrency.html?id=rU68SYVS7S8C&printsec=frontcover&source=kp_read_button&redir_esc=y)
+- [Concurrency: State Models & Java Programs](https://www.oreilly.com/library/view/concurrency-state-models/9780470093559/)
+- [Concurrency Theory](https://books.google.com/books/about/Concurrency_Theory.html?id=OiSMimG2QTEC&printsec=frontcover&source=kp_read_button)
 
 <div id='id-section13'/>
 <h2>High-Performance Computing</h2>
 
-- 
-- 
-- 
-- 
-- 
+- [High Performance Computing](https://books.google.com/books/about/High_Performance_Computing.html?id=xok_AQAAIAAJ&source=kp_book_description)
+- [Problem-solving in High Performance Computing: A Situational Awareness Approach with Linux](https://books.google.com.au/books/about/Problem_solving_in_High_Performance_Comp.html?id=NOOcBAAAQBAJ&printsec=frontcover&source=kp_read_button&redir_esc=y)
+- [High Performance Computing: Programming and Applications](https://books.google.com.au/books/about/High_Performance_Computing.html?id=orRQcftFRtkC&printsec=frontcover&source=kp_read_button&redir_esc=y)
+- [High Performance Computing: Modern Systems and Practices](https://books.google.com.au/books/about/High_Performance_Computing.html?id=qOHIBAAAQBAJ&printsec=frontcover&source=kp_read_button&redir_esc=y)
+- [High Performance Computing in Remote Sensing](https://books.google.com.au/books/about/High_Performance_Computing_in_Remote_Sen.html?id=0L9DNQvMFK0C&printsec=frontcover&source=kp_read_button&redir_esc=y#v=onepage&q&f=false)
