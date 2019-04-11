@@ -18,8 +18,6 @@
 - [Concurrency](#id-section12)
 - [High-Performance Computing](#id-section13)
 <br>
-<br>
-<br>
 <hr>
 
 <div id='id-section1'/>
