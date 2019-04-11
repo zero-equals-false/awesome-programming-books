@@ -52,29 +52,29 @@
 <div id='id-section4'/>
 <h3>Human–computer interaction</h3>
 
-- 
-- 
-- 
-- 
-- 
+- [Designing Interfaces](https://books.google.com.au/books/about/Designing_Interfaces.html?id=1D2bAgAAQBAJ&printsec=frontcover&source=kp_read_button&redir_esc=y)
+- [Designing for Effective Human/Computer Interaction](https://pearson.com.au/products/Shneiderman-Plaisant/Designing-the-User-Interface-Strategies-for-Effective-Human-Computer-Interaction-Global-Edition/9781292153919?R=9781292153919)
+- [The Psychology of Human-Computer Interaction](https://books.google.com.au/books/about/The_Psychology_of_Human_Computer_Interac.html?id=iUtaDwAAQBAJ&printsec=frontcover&source=kp_read_button&redir_esc=y#v=onepage&q&f=false)
+- [Don't Make Me Think](https://books.google.com.au/books/about/Don_t_Make_Me_Think.html?id=g1QBFJxB_eEC&printsec=frontcover&source=kp_read_button&redir_esc=y#v=onepage&q&f=false)
+- [Human-Computer Interaction: an Empirical Research Perspective](https://books.google.com.au/books/about/Human_Computer_Interaction.html?id=k0kBgyCaokAC&printsec=frontcover&source=kp_read_button&redir_esc=y#v=onepage&q&f=false)
 
 <div id='id-section5'/>
 <h3>Mathematical optimization</h3>
 
-- 
-- 
-- 
-- 
-- 
+- [Introduction to linear optimization](https://www.goodreads.com/book/show/152452.Introduction_to_Linear_Optimization)
+- [Practical Mathematical Optimization: Basic Optimization Theory and Gradient-Based Algorithms](https://books.google.com.au/books/about/Practical_Mathematical_Optimization.html?id=oXZZDwAAQBAJ&printsec=frontcover&source=kp_read_button&redir_esc=y#v=onepage&q&f=false)
+- [Optimal Control Theory: An Introduction](https://books.google.com.au/books/about/Optimal_Control_Theory.html?id=onuH0PnZwV4C&printsec=frontcover&source=kp_read_button&redir_esc=y#v=onepage&q&f=false)
+- [Algorithms for Minimization Without Derivatives](https://books.google.com.au/books/about/Algorithms_for_Minimization_Without_Deri.html?id=FR_RgSsC42EC&printsec=frontcover&source=kp_read_button&redir_esc=y)
+- [Linear Programming: Foundations and Extensions](https://books.google.com.au/books/about/Linear_Programming.html?id=T-BW1g69wbYC&printsec=frontcover&source=kp_read_button&redir_esc=y)
 
 <div id='id-section6'/>
 <h3>Computer Security</h3>
 
-- 
-- 
-- 
-- 
-- 
+- [Principles of Information Security](https://books.google.com.au/books/about/Principles_of_Information_Security.html?id=gPonBssSm0kC&printsec=frontcover&source=kp_read_button&redir_esc=y)
+- [Principles of Computer Security](https://books.google.com.au/books/about/Principles_of_Computer_Security_CompTIA.html?id=pUm1AEOb9R4C&printsec=frontcover&source=kp_read_button&redir_esc=y#v=onepage&q&f=false)
+- [The InfoSec Handbook: An Introduction to Information Security](https://books.google.com.au/books/about/The_InfoSec_Handbook.html?id=Qe9lBAAAQBAJ&printsec=frontcover&source=kp_read_button&redir_esc=y#v=onepage&q&f=false)
+- [Defensive Security Handbook: Best Practices for Securing Infrastructure](https://books.google.com.au/books/about/Defensive_Security_Handbook.html?id=psKWDgAAQBAJ&printsec=frontcover&source=kp_read_button&redir_esc=y)
+- [Applied Cryptography](https://books.google.com.au/books/about/Applied_Cryptography.html?id=VjC9BgAAQBAJ&printsec=frontcover&source=kp_read_button&redir_esc=y)
 
 <div id='id-section7'/>
 <h3>Game Development</h3>
