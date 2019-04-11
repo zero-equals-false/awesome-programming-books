@@ -148,4 +148,4 @@ Contributions welcome! Read the [contribution guidelines](CONTRIBUTING.md) first
 
 [![CC0](http://i.creativecommons.org/p/zero/1.0/88x31.png)](http://creativecommons.org/publicdomain/zero/1.0/)
 
-To the extent possible under law, [chencheng](https://github.com/sorrycc) has waived all copyright and related or neighboring rights to this work.
+To the extent possible under law, [majikarp](https://github.com/majikarp) has waived all copyright and related or neighboring rights to this work.
