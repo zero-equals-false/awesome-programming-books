@@ -1,4 +1,7 @@
-# 📚 A curated list of awesome programming books
+# 📚 Awesome Programming Books 
+> a curated list of awesome programming books
+
+[![Awesome](https://awesome.re/badge.svg)](https://awesome.re)
 <br>
 <br>
 
