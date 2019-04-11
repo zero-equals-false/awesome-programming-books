@@ -1,4 +1,7 @@
-# 📚 Awesome Programming Books  [![Tweet](https://img.shields.io/twitter/url/http/shields.io.svg?style=social)](https://twitter.com/intent/tweet?text=A%20curated%list0%20of%20awesome%20programming%20books%20&url=https://github.com/majikarp/awesome-programming-books&via=github&hashtags=programming,coding,code,tech,developer)
+# 📚 Awesome Programming Books <a href="https://twitter.com/intent/tweet?text=A+curated+list+of+awesome+programming+books&url=https%3A%2F%2Fgithub.com%2Fmajikarp%2Fawesome-programming-books&hashtags=coding%2Cprogramming%2Ccode%2Ctech%2Cdeveloper&original_referer=http%3A%2F%2Fgithub.com%2F&tw_p=tweetbutton" target="_blank">
+  <img src="http://jpillora.com/github-twitter-button/img/tweet.png"
+       alt="tweet button" title="A curated list of awesome programming books"></img>
+</a>
 <br>
 
 > a curated list of awesome programming books
