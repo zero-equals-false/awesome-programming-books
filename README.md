@@ -2,7 +2,7 @@
 <br>
 <br>
 
-# My Table of content
+# Programming Topics
 - [Algorithms and data structures](#id-section1)
 - [Artificial intelligence](#id-section2)
 - [Software Architecture](#id-section3)
