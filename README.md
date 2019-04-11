@@ -138,6 +138,8 @@
 - [High Performance Computing: Modern Systems and Practices](https://books.google.com.au/books/about/High_Performance_Computing.html?id=qOHIBAAAQBAJ&printsec=frontcover&source=kp_read_button&redir_esc=y)
 - [High Performance Computing in Remote Sensing](https://books.google.com.au/books/about/High_Performance_Computing_in_Remote_Sen.html?id=0L9DNQvMFK0C&printsec=frontcover&source=kp_read_button&redir_esc=y#v=onepage&q&f=false)
 
+<br>
+
 # Contributing
 
 Contributions welcome! Read the [contribution guidelines](CONTRIBUTING.md) first.
