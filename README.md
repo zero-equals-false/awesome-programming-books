@@ -1,4 +1,4 @@
-# 📚 Awesome Programming Books [![Tweet](https://img.shields.io/twitter/url/http/shields.io.svg?style=social)](https://twitter.com/intent/tweet?text=A+curated+list+of+awesome+programming+books&url=https%3A%2F%2Fgithub.com%2Fmajikarp%2Fawesome-programming-books&hashtags=coding%2Cprogramming%2Ccode%2Ctech%2Cdeveloper&original_referer=http%3A%2F%2Fgithub.com%2F)
+# 📚 Awesome Programming Books   [![Tweet](https://img.shields.io/twitter/url/http/shields.io.svg?style=social)](https://twitter.com/intent/tweet?text=A+curated+list+of+awesome+programming+books&url=https%3A%2F%2Fgithub.com%2Fmajikarp%2Fawesome-programming-books&hashtags=coding%2Cprogramming%2Ccode%2Ctech%2Cdeveloper&original_referer=http%3A%2F%2Fgithub.com%2F)
 <br>
 
 > a curated list of awesome programming books
