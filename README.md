@@ -22,7 +22,7 @@
 
 
 <div id='id-section1'/>
-<h3>Algorithms and data structures</h3>
+<h2>Algorithms and data structures</h2>
 
 - [Introduction to Algorithms](https://en.wikipedia.org/wiki/Introduction_to_Algorithms)
 - [The Algorithm Design Manual](https://books.google.com.au/books/about/The_Algorithm_Design_Manual.html?id=7XUSn0IKQEgC&printsec=frontcover&source=kp_read_button&redir_esc=y#v=onepage&q&f=false)
@@ -32,7 +32,7 @@
 - [Algorithms and data structures](https://books.google.com.au/books/about/Algorithms_in_Java_Parts_1_4.html?id=lOXJCgAAQBAJ&printsec=frontcover&source=kp_read_button&redir_esc=y#v=onepage&q&f=false)
 
 <div id='id-section2'/>
-<h3>Artificial intelligence</h3>
+<h2>Artificial intelligence</h2>
 
 - [Artificial Intelligence: A Modern Approach](https://en.wikipedia.org/wiki/Artificial_Intelligence:_A_Modern_Approach)
 - [Artificial Intelligence For Dummies](https://books.google.com.au/books/about/Artificial_Intelligence_For_Dummies.html?id=gVFVDwAAQBAJ&printsec=frontcover&source=kp_read_button&redir_esc=y)
@@ -41,7 +41,7 @@
 - [Neural Networks and Deep Learning: A Textbook](https://books.google.com.au/books/about/Neural_Networks_and_Deep_Learning.html?id=achqDwAAQBAJ&printsec=frontcover&source=kp_read_button&redir_esc=y)
 
 <div id='id-section3'/>
-<h3>Software Architecture</h3>
+<h2>Software Architecture</h2>
 
 - [Software Architecture in Practice](https://books.google.com.au/books/about/Software_Architecture_in_Practice.html?id=-II73rBDXCYC&printsec=frontcover&source=kp_read_button&redir_esc=y#v=onepage&q&f=false)
 - [Beyond Software Architecture: Creating and Sustaining Winning Solutions](https://books.google.com.au/books/about/Beyond_Software_Architecture.html?id=0slJ8zynjCEC&printsec=frontcover&source=kp_read_button&redir_esc=y#v=onepage&q&f=false)
@@ -50,7 +50,7 @@
 - [Design Patterns](https://www.booktopia.com.au/design-patterns-erich-gamma/prod9780201633610.html?source=pla&gclid=CjwKCAjwqLblBRBYEiwAV3pCJq6Ktuck0QM6xWpzVzAWwTwMprwFbMrI3y77NN6tPw8tg9ltw5WpvBoCpA0QAvD_BwE)
 
 <div id='id-section4'/>
-<h3>Human–computer interaction</h3>
+<h2>Human–computer interaction</h2>
 
 - [Designing Interfaces](https://books.google.com.au/books/about/Designing_Interfaces.html?id=1D2bAgAAQBAJ&printsec=frontcover&source=kp_read_button&redir_esc=y)
 - [Designing for Effective Human/Computer Interaction](https://pearson.com.au/products/Shneiderman-Plaisant/Designing-the-User-Interface-Strategies-for-Effective-Human-Computer-Interaction-Global-Edition/9781292153919?R=9781292153919)
@@ -59,7 +59,7 @@
 - [Human-Computer Interaction: an Empirical Research Perspective](https://books.google.com.au/books/about/Human_Computer_Interaction.html?id=k0kBgyCaokAC&printsec=frontcover&source=kp_read_button&redir_esc=y#v=onepage&q&f=false)
 
 <div id='id-section5'/>
-<h3>Mathematical optimization</h3>
+<h2>Mathematical optimization</h2>
 
 - [Introduction to linear optimization](https://www.goodreads.com/book/show/152452.Introduction_to_Linear_Optimization)
 - [Practical Mathematical Optimization: Basic Optimization Theory and Gradient-Based Algorithms](https://books.google.com.au/books/about/Practical_Mathematical_Optimization.html?id=oXZZDwAAQBAJ&printsec=frontcover&source=kp_read_button&redir_esc=y#v=onepage&q&f=false)
@@ -68,7 +68,7 @@
 - [Linear Programming: Foundations and Extensions](https://books.google.com.au/books/about/Linear_Programming.html?id=T-BW1g69wbYC&printsec=frontcover&source=kp_read_button&redir_esc=y)
 
 <div id='id-section6'/>
-<h3>Computer Security</h3>
+<h2>Computer Security</h2>
 
 - [Principles of Information Security](https://books.google.com.au/books/about/Principles_of_Information_Security.html?id=gPonBssSm0kC&printsec=frontcover&source=kp_read_button&redir_esc=y)
 - [Principles of Computer Security](https://books.google.com.au/books/about/Principles_of_Computer_Security_CompTIA.html?id=pUm1AEOb9R4C&printsec=frontcover&source=kp_read_button&redir_esc=y#v=onepage&q&f=false)
@@ -77,7 +77,7 @@
 - [Applied Cryptography](https://books.google.com.au/books/about/Applied_Cryptography.html?id=VjC9BgAAQBAJ&printsec=frontcover&source=kp_read_button&redir_esc=y)
 
 <div id='id-section7'/>
-<h3>Game Development</h3>
+<h2>Game Development</h2>
 
 - 
 - 
@@ -86,7 +86,7 @@
 - 
 
 <div id='id-section8'/>
-<h3>Operating Systems</h3>
+<h2>Operating Systems</h2>
 
 - 
 - 
@@ -95,7 +95,7 @@
 - 
 
 <div id='id-section9'/>
-<h3>Distributed Systems</h3>
+<h2>Distributed Systems</h2>
 
 - 
 - 
@@ -104,7 +104,7 @@
 - 
 
 <div id='id-section10'/>
-<h3>Database Systems</h3>
+<h2>Database Systems</h2>
 
 - 
 - 
@@ -113,7 +113,7 @@
 - 
 
 <div id='id-section11'/>
-<h3>Interpreters and Compilers</h3>
+<h2>Interpreters and Compilers</h2>
 
 - 
 - 
@@ -122,7 +122,7 @@
 - 
 
 <div id='id-section12'/>
-<h3>Concurrency</h3>
+<h2>Concurrency</h2>
 
 - 
 - 
@@ -131,7 +131,7 @@
 - 
 
 <div id='id-section13'/>
-<h3>High-Performance Computing</h3>
+<h2>High-Performance Computing</h2>
 
 - 
 - 
