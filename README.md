@@ -2,7 +2,7 @@
 <br>
 <br>
 
-# Table of contents (topics)
+# Table of contents 
 
 - [Algorithms and data structures](#id-section1)
 - [Artificial intelligence](#id-section2)
