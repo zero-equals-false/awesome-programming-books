@@ -38,7 +38,7 @@
   - <sub>ISBN-10: 0672324539</sub> 
 - Fundamentals of data structures
   - <sub> ISBN-13: 978-0914894209</sub> 
-- [Algorithms and data structures](https://books.google.com.au/books/about/Algorithms_in_Java_Parts_1_4.html?id=lOXJCgAAQBAJ&printsec=frontcover&source=kp_read_button&redir_esc=y#v=onepage&q&f=false)
+- [Algorithms + Data Structures = Programs](https://en.wikipedia.org/wiki/Algorithms_%2B_Data_Structures_%3D_Programs)
   - <sub>ISBN-13: 978-0130224187</sub> 
 
 <div id='id-section2'/>
