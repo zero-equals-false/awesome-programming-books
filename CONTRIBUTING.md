@@ -6,8 +6,6 @@ Please ensure your pull request adheres to the following guidelines:
 - Make an individual pull request for each suggestion.
 - Use the following format: `[BOOK](LINK) - ISBN`
 - New topics, or improvements to the existing categorization are welcome.
-- Keep descriptions short and simple, but descriptive.
-- End all descriptions with a full stop/period.
 - Check your spelling and grammar.
 - Make sure your text editor is set to remove trailing whitespace.
 
