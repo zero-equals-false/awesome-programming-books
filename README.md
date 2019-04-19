@@ -8,12 +8,6 @@
 <br>
 
 
-
-# Inspiration 
-
-Inspired by [Programming Books You Wish You Read Earlier](https://zeroequalsfalse.press/posts/programming-books-you-wish-you-read-earlier/) - a list top-ranked selections from each programming category.
-
-
 # Related categories
 
 - [Algorithms and data structures](#id-section1)
@@ -31,6 +25,13 @@ Inspired by [Programming Books You Wish You Read Earlier](https://zeroequalsfals
 - [High-Performance Computing](#id-section13)
 <br>
 <hr>
+
+
+# Inspiration 
+
+Inspired by [Programming Books You Wish You Read Earlier](https://zeroequalsfalse.press/posts/programming-books-you-wish-you-read-earlier/) - a list top-ranked selections from each programming category.
+
+<br>
 
 <div id='id-section1'/>
 <h2>Algorithms and data structures</h2>
