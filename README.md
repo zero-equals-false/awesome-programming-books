@@ -40,7 +40,7 @@
   - <sub>ISBN-13: 978-1491948927</sub> 
 - [Algorithms in Java](https://www.amazon.com/gp/product/0201361205/ref=as_li_qf_asin_il_tl?ie=UTF8&tag=zeroequalsfal-20&creative=9325&linkCode=as2&creativeASIN=0201361205&linkId=bb8161d5c653c3173f8d6083104597a7)
   - <sub>ISBN-10: 0672324539</sub> 
-- Fundamentals of data structures
+- [Fundamentals of data structures](https://www.amazon.com/gp/product/091489420X/ref=as_li_qf_asin_il_tl?ie=UTF8&tag=zeroequalsfal-20&creative=9325&linkCode=as2&creativeASIN=091489420X&linkId=e20b03d64eed41e641498d90a86cd656)
   - <sub> ISBN-13: 978-0914894209</sub> 
 - [Algorithms + Data Structures = Programs](https://www.amazon.com/gp/product/0130224189/ref=as_li_qf_asin_il_tl?ie=UTF8&tag=zeroequalsfal-20&creative=9325&linkCode=as2&creativeASIN=0130224189&linkId=d868c6de138dd81c322f9133c76c71ce)
   - <sub>ISBN-13: 978-0130224187</sub> 
