@@ -27,10 +27,6 @@
 <hr>
 
 
-# Inspiration 
-
-Inspired by [Programming Books You Wish You Read Earlier](https://zeroequalsfalse.press/posts/programming-books-you-wish-you-read-earlier/) - top-ranked selections from each programming category.
-
 <br>
 
 <div id='id-section1'/>
