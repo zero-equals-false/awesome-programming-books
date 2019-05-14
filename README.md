@@ -44,7 +44,7 @@
   - <sub> ISBN-13: 978-0914894209</sub> 
 - [Algorithms + Data Structures = Programs](https://www.amazon.com/gp/product/0130224189/ref=as_li_qf_asin_il_tl?ie=UTF8&tag=zeroequalsfal-20&creative=9325&linkCode=as2&creativeASIN=0130224189&linkId=d868c6de138dd81c322f9133c76c71ce)
   - <sub>ISBN-13: 978-0130224187</sub> 
-  - [Programming with Types](https://www.manning.com/books/programming-with-types)
+- [Programming with Types](https://www.manning.com/books/programming-with-types)
   - <sub>ISBN 9781617296413</sub> 
 
 <div id='id-section2'/>
