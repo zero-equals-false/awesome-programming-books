@@ -144,6 +144,9 @@
 - [Operating Systems: Three Easy Pieces](https://www.amazon.com/gp/product/198508659X/ref=as_li_qf_asin_il_tl?ie=UTF8&tag=zeroequalsfal-20&creative=9325&linkCode=as2&creativeASIN=198508659X&linkId=a0ca9e203c6070cd8bb8a434310e9bbc)
   - <sub>ISBN 13: 9781105979125</sub> 
 
+- [How Linux Works: What Every Superuser Should Know](https://nostarch.com/howlinuxworks2)
+  - <sub>ISBN 13: 9781593275679</sub> 
+
 <div id='id-section9'/>
 <h2>Distributed Systems</h2>
 
