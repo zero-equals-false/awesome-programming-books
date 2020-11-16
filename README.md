@@ -171,6 +171,8 @@
   - <sub>ISBN 13: 9781449328016</sub> 
 - [Database Systems: Design, Implementation, and Management](https://www.amazon.com/gp/product/1337627909/ref=as_li_qf_asin_il_tl?ie=UTF8&tag=initialcommit-20&creative=9325&linkCode=as2&creativeASIN=1337627909&linkId=35aac7470630f265cd420032179c41b9)
   - <sub>ISBN 13: 9781337627900</sub> 
+- [Readings in Database Systems](https://www.amazon.com/Readings-Database-Systems-MIT-Press/dp/0262693143)
+  - <sub>ISBN-13: 978-0262693141</sub> 
 
 <div id='id-section11'/>
 <h2>Interpreters and Compilers</h2>
