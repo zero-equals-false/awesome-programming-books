@@ -72,6 +72,8 @@
   - <sub>ISBN · 978-0201362985.</sub> 
 - [Design Patterns](https://www.amazon.com/gp/product/0201633612/ref=as_li_qf_asin_il_tl?ie=UTF8&tag=initialcommit-20&creative=9325&linkCode=as2&creativeASIN=0201633612&linkId=519bb92fb310a02f5ce39216f1b52531)
   - <sub>ISBN-10: 0201633612</sub> 
+  - - [Software Mistakes and Tradeoffs: How to make good programming decisions](https://www.manning.com/books/software-mistakes-and-tradeoffs)
+  - <sub>ISBN 9781617299209</sub> 
 
 
 <div id='id-section4'/>
