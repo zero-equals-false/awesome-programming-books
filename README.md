@@ -131,6 +131,8 @@
   - <sub>ISBN-13: 978-0321618528</sub> 
 - [Foundations of Game Engine Development](https://www.amazon.com/gp/product/0985811749/ref=as_li_qf_asin_il_tl?ie=UTF8&tag=initialcommit-20&creative=9325&linkCode=as2&creativeASIN=0985811749&linkId=32a40591f094924b43e84a9128580969)
   - <sub>ISBN 9780985811747</sub> 
+  - [Unity in Action, Third Edition](https://www.manning.com/books/unity-in-action-third-edition)
+  - <sub>ISBN 9781617299339</sub>
 
 <div id='id-section8'/>
 <h2>Operating Systems</h2>
