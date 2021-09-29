@@ -161,6 +161,8 @@
   - <sub>ISBN-13: 978-1530281756</sub> 
 - [Programming Distributed Computing Systems: A Foundational Approach](https://www.amazon.com/gp/product/B00G9U9MBI/ref=as_li_qf_asin_il_tl?ie=UTF8&tag=initialcommit-20&creative=9325&linkCode=as2&creativeASIN=B00G9U9MBI&linkId=c89a0f134c936337d012377bc32531fd)
   - <sub>ISBN: 9780262018982</sub> 
+- [Akka in Action, Second Edition](https://www.manning.com/books/akka-in-action-second-edition)
+  - <sub>ISBN: 9781617299216</sub> 
 
 <div id='id-section10'/>
 <h2>Database Systems</h2>
