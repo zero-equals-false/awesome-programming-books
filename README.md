@@ -23,6 +23,7 @@
 - [Interpreters and Compilers](#id-section11)
 - [Concurrency](#id-section12)
 - [High-Performance Computing](#id-section13)
+- [Software Testing](#id-section14)
 <br>
 <hr>
 
@@ -212,6 +213,11 @@
 - [High Performance Computing in Remote Sensing](https://www.amazon.com/gp/product/B00866GV26/ref=as_li_qf_asin_il_tl?ie=UTF8&tag=initialcommit-20&creative=9325&linkCode=as2&creativeASIN=B00866GV26&linkId=32dbd8237371b3dc5dfb6076ec8f2c8d)
   - <sub>ISBN 13: 9781420011616</sub> 
 
+<div id='id-section14'/>
+<h2>Software Testing</h2>
+- [Testing Web APIs](https://www.manning.com/books/testing-web-apis)
+  - <sub>ISBN 13: 9781617299537</sub> 
+  
 <br>
 
 # Contributing
