@@ -89,6 +89,8 @@
   - <sub> ISBN-13: 978-0321344755</sub> 
 - [Human-Computer Interaction: an Empirical Research Perspective](https://www.amazon.com/gp/product/0124058655/ref=as_li_qf_asin_il_tl?ie=UTF8&tag=initialcommit-20&creative=9325&linkCode=as2&creativeASIN=0124058655&linkId=78aae04b7a5b92f10f2dc45c0e1358ea)
   - <sub>ISBN 10: 0124058655</sub> 
+- [Human-in-the-Loop Machine Learning](https://www.manning.com/books/machine-learning-bookcamp)
+  - <sub>ISBN: 9781617296819</sub> 
 
 <div id='id-section5'/>
 <h2>Mathematical optimization</h2>
