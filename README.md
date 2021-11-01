@@ -219,6 +219,8 @@
   - <sub>ISBN: 9780124202153</sub> 
 - [High Performance Computing in Remote Sensing](https://www.amazon.com/gp/product/B00866GV26/ref=as_li_qf_asin_il_tl?ie=UTF8&tag=initialcommit-20&creative=9325&linkCode=as2&creativeASIN=B00866GV26&linkId=32dbd8237371b3dc5dfb6076ec8f2c8d)
   - <sub>ISBN 13: 9781420011616</sub> 
+- [Parallel and High Performance Computing](https://www.manning.com/books/parallel-and-high-performance-computing)
+  - <sub>ISBN: 9781617296468</sub> 
 
 <br>
 
