@@ -135,6 +135,8 @@
   - <sub>ISBN 9780985811747</sub> 
 - [Unity in Action, Third Edition](https://www.manning.com/books/unity-in-action-third-edition)
   - <sub>ISBN 9781617299339</sub>
+- [Game Programming Design Patterns](https://www.manning.com/books/game-programming-design-patterns)
+  - <sub>ISBN 9781633439757</sub>
 
 <div id='id-section8'/>
 <h2>Operating Systems</h2>
