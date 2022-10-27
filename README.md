@@ -198,7 +198,7 @@
 - Concurrency: State Models & Java Programs
   - <sub>ISBN: 0470093552</sub> 
 - [Concurrency Theory](https://www.amazon.com/gp/product/1852338954/ref=as_li_qf_asin_il_tl?ie=UTF8&tag=initialcommit-20&creative=9325&linkCode=as2&creativeASIN=1852338954&linkId=1ef28bc89e301592b221d172ed5cf762)
-  - <sub>SBN 978-3-319-21491-7</sub> 
+  - <sub>ISBN 978-3-319-21491-7</sub> 
 
 <div id='id-section13'/>
 <h2>High-Performance Computing</h2>
