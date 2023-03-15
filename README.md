@@ -74,6 +74,8 @@
   - <sub>ISBN-10: 0201633612</sub> 
 - [Software Mistakes and Tradeoffs: How to make good programming decisions](https://www.manning.com/books/software-mistakes-and-tradeoffs)
   - <sub>ISBN 9781617299209</sub> 
+- [Architecture Modernization](https://www.manning.com/books/architecture-modernization)
+  - <sub>ISBN 9781633438156</sub> 
 
 
 <div id='id-section4'/>
