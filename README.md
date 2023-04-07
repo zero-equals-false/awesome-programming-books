@@ -216,7 +216,9 @@
 - [Grokking Concurrency](https://www.manning.com/books/grokking-concurrency)
   - <sub>ISBN: 9781633439771</sub> 
 - [Learn Concurrent Programming with Go](https://www.manning.com/books/learn-concurrent-programming-with-go)
-  - <sub>ISBN: 9781633438385</sub>   
+  - <sub>ISBN: 9781633438385</sub>
+- [C# Concurrency](https://www.manning.com/books/csharp-concurrency)
+  - <sub>ISBN: 9781633438651</sub> 
 
 <div id='id-section13'/>
 <h2>High-Performance Computing</h2>
