@@ -43,7 +43,9 @@
 - [Fundamentals of data structures](https://www.amazon.com/gp/product/091489420X/ref=as_li_qf_asin_il_tl?ie=UTF8&tag=initialcommit-20&creative=9325&linkCode=as2&creativeASIN=091489420X&linkId=e20b03d64eed41e641498d90a86cd656)
   - <sub> ISBN-13: 978-0914894209</sub> 
 - [Algorithms + Data Structures = Programs](https://www.amazon.com/gp/product/0130224189/ref=as_li_qf_asin_il_tl?ie=UTF8&tag=initialcommit-20&creative=9325&linkCode=as2&creativeASIN=0130224189&linkId=d868c6de138dd81c322f9133c76c71ce)
-  - <sub>ISBN-13: 978-0130224187</sub> 
+  - <sub>ISBN-13: 978-0130224187</sub>
+- [Grokking Algorithms, Second Edition](https://www.manning.com/books/grokking-algorithms-second-edition)
+  - <sub>ISBN-10: 9781633438538</sub> 
 
 <div id='id-section2'/>
 <h2>Artificial intelligence</h2>
