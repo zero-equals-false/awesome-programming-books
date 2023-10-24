@@ -141,6 +141,8 @@
   - <sub>ISBN 9781617299339</sub>
 - [Game Programming Design Patterns](https://www.manning.com/books/game-programming-design-patterns)
   - <sub>ISBN 9781633439757</sub>
+- [Classic Game Programming on the NES](https://www.manning.com/books/classic-game-programming-on-the-nes)
+  - <sub>ISBN 9781633438019</sub>  
 
 <div id='id-section8'/>
 <h2>Operating Systems</h2>
