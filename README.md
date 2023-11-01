@@ -43,7 +43,9 @@
 - [Fundamentals of data structures](https://www.amazon.com/gp/product/091489420X/ref=as_li_qf_asin_il_tl?ie=UTF8&tag=initialcommit-20&creative=9325&linkCode=as2&creativeASIN=091489420X&linkId=e20b03d64eed41e641498d90a86cd656)
   - <sub> ISBN-13: 978-0914894209</sub> 
 - [Algorithms + Data Structures = Programs](https://www.amazon.com/gp/product/0130224189/ref=as_li_qf_asin_il_tl?ie=UTF8&tag=initialcommit-20&creative=9325&linkCode=as2&creativeASIN=0130224189&linkId=d868c6de138dd81c322f9133c76c71ce)
-  - <sub>ISBN-13: 978-0130224187</sub> 
+  - <sub>ISBN-13: 978-0130224187</sub>
+- [Grokking Algorithms, Second Edition](https://www.manning.com/books/grokking-algorithms-second-edition)
+  - <sub>ISBN-10: 9781633438538</sub> 
 
 <div id='id-section2'/>
 <h2>Artificial intelligence</h2>
@@ -72,6 +74,10 @@
   - <sub>ISBN · 978-0201362985.</sub> 
 - [Design Patterns](https://www.amazon.com/gp/product/0201633612/ref=as_li_qf_asin_il_tl?ie=UTF8&tag=initialcommit-20&creative=9325&linkCode=as2&creativeASIN=0201633612&linkId=519bb92fb310a02f5ce39216f1b52531)
   - <sub>ISBN-10: 0201633612</sub> 
+- [Software Mistakes and Tradeoffs: How to make good programming decisions](https://www.manning.com/books/software-mistakes-and-tradeoffs)
+  - <sub>ISBN 9781617299209</sub> 
+- [Architecture Modernization](https://www.manning.com/books/architecture-modernization)
+  - <sub>ISBN 9781633438156</sub> 
 
 
 <div id='id-section4'/>
@@ -87,6 +93,8 @@
   - <sub> ISBN-13: 978-0321344755</sub> 
 - [Human-Computer Interaction: an Empirical Research Perspective](https://www.amazon.com/gp/product/0124058655/ref=as_li_qf_asin_il_tl?ie=UTF8&tag=initialcommit-20&creative=9325&linkCode=as2&creativeASIN=0124058655&linkId=78aae04b7a5b92f10f2dc45c0e1358ea)
   - <sub>ISBN 10: 0124058655</sub> 
+- [Human-in-the-Loop Machine Learning](https://www.manning.com/books/machine-learning-bookcamp)
+  - <sub>ISBN: 9781617296819</sub> 
 
 <div id='id-section5'/>
 <h2>Mathematical optimization</h2>
@@ -129,6 +137,12 @@
   - <sub>ISBN-13: 978-0321618528</sub> 
 - [Foundations of Game Engine Development](https://www.amazon.com/gp/product/0985811749/ref=as_li_qf_asin_il_tl?ie=UTF8&tag=initialcommit-20&creative=9325&linkCode=as2&creativeASIN=0985811749&linkId=32a40591f094924b43e84a9128580969)
   - <sub>ISBN 9780985811747</sub> 
+- [Unity in Action, Third Edition](https://www.manning.com/books/unity-in-action-third-edition)
+  - <sub>ISBN 9781617299339</sub>
+- [Game Programming Design Patterns](https://www.manning.com/books/game-programming-design-patterns)
+  - <sub>ISBN 9781633439757</sub>
+- [Classic Game Programming on the NES](https://www.manning.com/books/classic-game-programming-on-the-nes)
+  - <sub>ISBN 9781633438019</sub>  
 
 <div id='id-section8'/>
 <h2>Operating Systems</h2>
@@ -157,6 +171,8 @@
   - <sub>ISBN-13: 978-1530281756</sub> 
 - [Programming Distributed Computing Systems: A Foundational Approach](https://www.amazon.com/gp/product/B00G9U9MBI/ref=as_li_qf_asin_il_tl?ie=UTF8&tag=initialcommit-20&creative=9325&linkCode=as2&creativeASIN=B00G9U9MBI&linkId=c89a0f134c936337d012377bc32531fd)
   - <sub>ISBN: 9780262018982</sub> 
+- [Akka in Action, Second Edition](https://www.manning.com/books/akka-in-action-second-edition)
+  - <sub>ISBN: 9781617299216</sub> 
 
 <div id='id-section10'/>
 <h2>Database Systems</h2>
@@ -171,6 +187,8 @@
   - <sub>ISBN 13: 9781449328016</sub> 
 - [Database Systems: Design, Implementation, and Management](https://www.amazon.com/gp/product/1337627909/ref=as_li_qf_asin_il_tl?ie=UTF8&tag=initialcommit-20&creative=9325&linkCode=as2&creativeASIN=1337627909&linkId=35aac7470630f265cd420032179c41b9)
   - <sub>ISBN 13: 9781337627900</sub> 
+- [Data Mesh in Action](https://www.manning.com/books/data-mesh-in-action)
+  - <sub>ISBN 13: 9781633439979</sub> 
 
 <div id='id-section11'/>
 <h2>Interpreters and Compilers</h2>
@@ -199,6 +217,12 @@
   - <sub>ISBN: 0470093552</sub> 
 - [Concurrency Theory](https://www.amazon.com/gp/product/1852338954/ref=as_li_qf_asin_il_tl?ie=UTF8&tag=initialcommit-20&creative=9325&linkCode=as2&creativeASIN=1852338954&linkId=1ef28bc89e301592b221d172ed5cf762)
   - <sub>SBN 978-3-319-21491-7</sub> 
+- [Grokking Concurrency](https://www.manning.com/books/grokking-concurrency)
+  - <sub>ISBN: 9781633439771</sub> 
+- [Learn Concurrent Programming with Go](https://www.manning.com/books/learn-concurrent-programming-with-go)
+  - <sub>ISBN: 9781633438385</sub>
+- [C# Concurrency](https://www.manning.com/books/csharp-concurrency)
+  - <sub>ISBN: 9781633438651</sub> 
 
 <div id='id-section13'/>
 <h2>High-Performance Computing</h2>
@@ -211,6 +235,8 @@
   - <sub>ISBN: 9780124202153</sub> 
 - [High Performance Computing in Remote Sensing](https://www.amazon.com/gp/product/B00866GV26/ref=as_li_qf_asin_il_tl?ie=UTF8&tag=initialcommit-20&creative=9325&linkCode=as2&creativeASIN=B00866GV26&linkId=32dbd8237371b3dc5dfb6076ec8f2c8d)
   - <sub>ISBN 13: 9781420011616</sub> 
+- [Parallel and High Performance Computing](https://www.manning.com/books/parallel-and-high-performance-computing)
+  - <sub>ISBN: 9781617296468</sub> 
 
 <br>
 
